@@ -1,0 +1,25 @@
+img {
+  max-height: 500px; }
+
+.arrow {
+  height: 50px;
+  display: inline-block;
+  margin: auto; }
+
+.arrowDiv {
+  width: 100px;
+  margin: 5px auto 0; }
+
+#stickItHere {
+  height: 500px;
+  width: 800px;
+  margin: auto;
+  text-align: center; }
+
+.hidden {
+  display: none; }
+
+.caption {
+  display: none; }
+
+/*# sourceMappingURL=main.css.map */

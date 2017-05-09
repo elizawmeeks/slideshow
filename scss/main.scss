@@ -1,0 +1,33 @@
+$height: 500px;
+$width: 800px;
+$arrowheight: 50px;
+
+img {
+	max-height: $height;
+}
+
+.arrow {
+	height: $arrowheight;
+	display: inline-block;
+	margin: auto;
+}
+
+.arrowDiv {
+	width: 100px;
+	margin: 5px auto 0;
+}
+
+#stickItHere{
+	height: $height;
+	width: $width;
+	margin: auto;
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
+
+.caption {
+	display: none;
+}
