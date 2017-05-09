@@ -1,2 +1,4 @@
 .DS_Store
 js/nasakey.js
+lib/.sass-cache
+lib/node_modules
